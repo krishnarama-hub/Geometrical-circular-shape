@@ -16,3 +16,5 @@ for i in range(72):
     timmy.pencolor(color())
     timmy.circle(100)
     timmy.right(5)
+screen=Screen()
+screen.exitonclick()
