@@ -77,3 +77,5 @@ def decagon():
         timmy.forward(100)
         
 decagon()
+screen=Screen()
+screen.exitonclick()
