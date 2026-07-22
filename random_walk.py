@@ -84,3 +84,5 @@ while True:
     timmy.forward(20)
     
     timmy.speed("fastest")
+screen=Screen()
+screen.exitonclick()
